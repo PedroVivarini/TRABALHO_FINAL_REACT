@@ -2,6 +2,9 @@
 
 Este projeto é um desafio de desenvolvimento Front-end construído com React, utilizando TypeScript e Tailwind CSS para uma experiência moderna e eficiente.
 
+Trabalho desenvolvido em grupo
+Participantes: João Dias, Pedro Vivarini, Matheus Schwhartz e João Vitor
+
 A aplicação se conecta a um backend simulado em Spring Boot (via camada de serviço de API) e implementa funcionalidades essenciais como autenticação baseada em JWT, gerenciamento de rotas e operações CRUD (simuladas) de produtos.
 
 ## 🌟 Recursos Principais
